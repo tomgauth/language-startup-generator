@@ -108,18 +108,18 @@ st.subheader("Latest from the Blog")
 col1, col2 = st.columns(2)
 with col1:
     st.image(f"{images[0]}")
-    st.header(f"{c(blog_number)} {c(blog_adj)} {c(blog_noun)}")
+    st.header(f"{c(blog_number)} {c(blog_adj)} {c(blog_noun)}".title())
     
 
 with col2:
     st.image(f"{images[1]}")
-    st.header(f"{c(blog_number)} {c(blog_adj)} {c(blog_noun)}")
+    st.header(f"{c(blog_number)} {c(blog_adj)} {c(blog_noun)}".title())
     
 col3, col4 = st.columns(2)
 
 with col3:    
     st.image(f"{images[2]}")
-    st.header(f"{c(blog_number)} {c(blog_adj)} {c(blog_noun)}")
+    st.header(f"{c(blog_number)} {c(blog_adj)} {c(blog_noun)}".title())
 
 with col4:
     st.image(f"{images[3]}")
