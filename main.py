@@ -123,7 +123,7 @@ with col3:
 
 with col4:
     st.image(f"{images[3]}")
-    st.header(f"{c(blog_number)} {c(blog_adj)} {c(blog_noun)}")
+    st.header(f"{c(blog_number)} {c(blog_adj)} {c(blog_noun)}".title())
 st.write("")  
 st.write("")
 
