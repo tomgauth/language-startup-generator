@@ -44,7 +44,7 @@ headline_4 = ["from day 1", "without learning grammar", "using AI", "in 5 minute
 techniques = [
     "absorb the language like a sponge", 
     "learn the 20% you will use 80% of the time", 
-    "learn the top 1000 words quickly"
+    "learn the top 1000 words quickly",
     "learn the most frequent phrases first", 
     "tailored for your needs",
     "learn the language like a child",
